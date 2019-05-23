@@ -6,7 +6,7 @@ A simple CRUD on play! framework
 # Prerequisites
 1. Have SBT locally
 2. Have Scala plugin on your IDE or text editor
-3. 
+3. Have Java ee8 locally
 # Using
 1. **git clone** this repo
 2. Run on your sbt shell:
